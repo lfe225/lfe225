@@ -8,6 +8,11 @@
       <li><a href="https://github.com/lfe225/Merck-Process-Hierarchy-Modeling---AWS-DynamoDB">Merck Process Hierarchy Modeling - AWS DynamoDB</a></li>
     </ul>
   </li>
+  <li><b>Systems Software</b>
+    <ul>
+      <li><a href="https://github.com/lfe225/C-Process-Tree">C++ Process Tree</a></li>
+    </ul>
+  </li>
 </ul>
 
 <h2>🌐 Social:</h2>
