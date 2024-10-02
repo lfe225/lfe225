@@ -3,7 +3,7 @@
 <h2>👩🏽‍💻 General Projects:</h2>
 
 - <b>Optimizing Data Solutions</b>
-  - Merck Process Hierarchy Modeling - AWS DynamoDB 
+  - [Merck Process Hierarchy Modeling - AWS DynamoDB] (https://github.com/lfe225/Merck-Process-Hierarchy-Modeling---AWS-DynamoDB)
 - <b>Software Engineering</b>
   - 
 
