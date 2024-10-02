@@ -13,7 +13,13 @@
       <li><a href="https://github.com/lfe225/C-Process-Tree">C++ Process Tree</a></li>
     </ul>
   </li>
+  <li><b>Computer Organization and Architecture</b>
+    <ul>
+      <li><a href="https://github.com/lfe225/Assembly-Code-Demonstration">Assembly Code Demonstration</a></li>
+    </ul>
+  </li>
 </ul>
+
 
 <h2>🌐 Social:</h2>
 <ul>
