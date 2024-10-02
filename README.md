@@ -5,7 +5,7 @@
 <ul>
   <li><b>Optimizing Data Solutions</b>
     <ul>
-      <li><a href="https://github.com/lfe225/Merck-Process-Hierarchy-Modeling---AWS-DynamoDB">Merck Process Hierarchy Modeling - AWS DynamoDB</a></li>
+      <li><a href="https://github.com/lfe225/Merck-Process-Hierarchy-Modeling---AWS-DynamoDB">Merck Process Hierarchy Modeling - AWS DynamoDB (In Progress)</a></li>
     </ul>
   </li>
   <li><b>Systems Software</b>
