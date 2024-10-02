@@ -2,8 +2,8 @@
   
 <h2>👩🏽‍💻 General Projects:</h2>
 
-- <b>Optimizing Data Access with DynamoDB</b>
-  - [test1](https://github.com/lfe225/test1)
+- <b>Optimizing Data Solutions</b>
+  - Merck Process Hierarchy Modeling with AWS DynamoDB 
 - <b>Software Engineering</b>
   - 
 
