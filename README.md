@@ -4,8 +4,6 @@
 
 - <b>Optimizing Data Solutions</b>
   - [Merck Process Hierarchy Modeling - AWS DynamoDB](https://github.com/lfe225/Merck-Process-Hierarchy-Modeling---AWS-DynamoDB)
-- <b>Software Engineering</b>
-  - 
 
 <h2> 🤳 Connect with me:</h2>
 
